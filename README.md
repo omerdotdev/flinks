@@ -11,5 +11,8 @@ this repository contains helpful/useful links which I came across learning flutt
     2. [flutter apprentice playlist](https://www.youtube.com/playlist?list=PL4dBIh1xps-HAaadBRWQobCO_IJ4gMOG2)
     3. [flutterly](https://www.youtube.com/c/Flutterly)
     4. [the flutter way](https://www.youtube.com/c/TheFlutterWay)
+    5. [very good venture flutter testing course playlist](https://www.youtube.com/playlist?list=PLprI2satkVdFwpxo_bjFkCxXz5RluG8FY)
 3. books
     1. [flutter apprentice](https://www.raywenderlich.com/books/flutter-apprentice)
+4. testing
+    1. [very good ventures](https://verygood.ventures/blog/testing-fundamentals-of-flutter-course)
