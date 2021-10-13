@@ -16,3 +16,6 @@ this repository contains helpful/useful links which I came across learning flutt
     1. [flutter apprentice](https://www.raywenderlich.com/books/flutter-apprentice)
 4. testing
     1. [very good ventures](https://verygood.ventures/blog/testing-fundamentals-of-flutter-course)
+5. guides
+    1. [todo app using bloc](https://bloclibrary.dev/#/fluttertodostutorial)
+    2. [flutter architecture samples](https://github.com/brianegan/flutter_architecture_samples)
