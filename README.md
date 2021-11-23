@@ -25,3 +25,8 @@ this repository contains helpful/useful links which I came across learning flutt
     1. [back4app](https://blog.back4app.com/flutter-app-backend/)
     2. [firebase vs amplify](https://blog.back4app.com/aws-amplify-vs-google-firebase/)
     3. [amplify datastore](https://docs.amplify.aws/lib/datastore/getting-started/q/platform/flutter/)
+7. build and release
+    1. https://docs.flutter.dev/deployment/android
+8. Extra Tools
+    1. [Screenshots, Landing Page and Policy Hosting](https://app.flycricket.com/)
+    2. [Privacy Policy Generator - Github](https://github.com/nisrulz/app-privacy-policy-generator)
